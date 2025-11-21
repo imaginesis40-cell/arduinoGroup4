@@ -1,0 +1,5 @@
+<< 사용한 라이브러리 >>
+
+1. LiquidCrystal_I2C (cpp)
+   - GIT : https://github.com/johnrickman/LiquidCrystal_I2C
+   - 용도: LCD 화면 제어 (출력장치)
